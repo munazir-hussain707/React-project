@@ -4,3 +4,4 @@ function Sum(a, b) {
   return result;
 }
 console.log(Sum(5, 4));
+discipline maintain karna hoga 
